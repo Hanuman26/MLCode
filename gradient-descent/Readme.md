@@ -13,3 +13,5 @@ Example -
 Starting gradient descent at b = 0, m = 0, error = 5565.10783448
 ********************************************************
 After 2000 iterations b = 0.148355127549, m = 1.47657623056, error = 112.579490734
+
+![alt tag](https://github.com/Hanuman26/MLCode/blob/gradient/gradient-descent/figure_1.png)
