@@ -1,7 +1,7 @@
 # A Machine learning repo for extra work related to algo implementation/ data science competitions on kaggle analytics vidhya etc.
 ## Folders = 
 ###kaggle
-titanic solution implementation in python with different models
+implementation in python with different models
 ###gradient descent
 introductory scratch implementation of gradient descent over ordinary least sqaure linear regression
 ###practise-jupyter
