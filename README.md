@@ -1,4 +1,4 @@
-# A Machine learning repo for extra work related to algo implementation/ data science competitions on kaggle analytics vidhya etc.
+# A Machine learning repo for algo implementation/ data science competitions on kaggle analytics vidhya etc.
 ## Folders = 
 ###kaggle
 implementation in python with different models
